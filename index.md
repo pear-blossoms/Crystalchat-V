@@ -62,7 +62,8 @@ There will be performance
 
 # Examples
 
-![sample1](sample1.png)
+<img src="./sample1.png" width = "500" alt="sample1" align=left />
+#![sample1](sample1.png)
 
 # Bibtext
 
