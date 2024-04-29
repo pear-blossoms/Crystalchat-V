@@ -12,7 +12,20 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # DEMO
 
-This will be a demo
+There will be a demo
+
+# Data
+
+There will be data
+
+# Architecture
+
+![archi](https://github.com/pear-blossoms/Crystalchat-V/edit/main/archi.png)
+
+# Performance
+
+There will be performance
+
 
 ## Header 2
 
