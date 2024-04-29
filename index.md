@@ -54,7 +54,7 @@ There will be a demo
 
 # Architecture
 
-![framework](framework.pdf)
+![framework](archi.png)
 
 # Performance
 
