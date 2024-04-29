@@ -54,15 +54,16 @@ There will be a demo
 
 # Architecture
 
-![framework](framework.pdf)
+<img src="./framework.pdf" width = "300" height = "200" alt="framework" align=center />
+#![framework](framework.pdf)
 
 # Performance
 
 There will be performance
 
 # Examples
-
-![sample1](https://github.com/pear-blossoms/Crystalchat-V/blob/main/sample1.png)
+<img src="./sample1.png" width = "300" height = "200" alt="framework" align=center />
+#![sample1](sample1.png)
 
 # Bibtext
 
