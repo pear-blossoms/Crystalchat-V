@@ -63,11 +63,10 @@ There will be performance
 # Examples
 <table>
     <tr>
-        <td<img src="./sample1.png" width = "500" alt="sample1" align=left /></td>
-        <td<img src="./sample2.png" width = "500" alt="sample2" align=left /></td>
+        <td><img src="./sample1.png" width = "500" alt="sample1"></td>
+        <td><img src="./sample2.png" width = "500" alt="sample2"></td>
     </tr>
 </table>
-<img src="./sample1.png" width = "500" alt="sample1" align=left />
 
 # Bibtext
 
