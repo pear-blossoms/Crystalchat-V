@@ -16,7 +16,12 @@ There will be a demo
 
 # Data
 
-There will be data
+| Stage       | Dataset        | Number | Size   |
+|:-------------|:------------------|:------|:-----|
+|            | LAION_CC_SBU | 558,128  |   |
+|  | good and plenty   | nice  ||
+| 1          | good `oreos`      | hmm   ||
+|           | good `zoute` drop | yumm  ||
 
 # Architecture
 
