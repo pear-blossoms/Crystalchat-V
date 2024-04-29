@@ -54,7 +54,7 @@ There will be a demo
 
 # Architecture
 
-![framework](https://github.com/pear-blossoms/Crystalchat-V/blob/main/framework.pdf)
+![framework](framework.pdf)
 
 # Performance
 
@@ -62,7 +62,7 @@ There will be performance
 
 # Examples
 
-[text1]
+![sample1](https://github.com/pear-blossoms/Crystalchat-V/blob/main/sample1.png)
 
 # Bibtext
 
