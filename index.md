@@ -36,7 +36,7 @@ There will be a demo
         <td>ShareGPT4v_1.2M</td><td>1,246,901</td><td>-</td><td>-</td>
     </tr>
     <tr>
-        <td rowsapn="5">Stage3</td><td>LVIS-Instruct</td><td>888,008</td><td>-</td><td>-</td>
+        <td rowspan="5">Stage3</td><td>LVIS-Instruct</td><td>888,008</td><td>-</td><td>-</td>
     </tr>
     <tr>
         <td>M<SUP>3</SUP>IT</td><td>955,435</td><td>-</td><td>-</td>
