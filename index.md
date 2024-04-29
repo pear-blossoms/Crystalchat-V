@@ -54,16 +54,15 @@ There will be a demo
 
 # Architecture
 
-<img src="./framework.pdf" width = "300" height = "200" alt="framework" align=center />
-#![framework](framework.pdf)
+![framework](framework.pdf)
 
 # Performance
 
 There will be performance
 
 # Examples
-<img src="./sample1.png" width = "300" height = "200" alt="framework" align=center />
-#![sample1](sample1.png)
+
+![sample1](sample1.png)
 
 # Bibtext
 
@@ -177,3 +176,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
+
