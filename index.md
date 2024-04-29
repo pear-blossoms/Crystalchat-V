@@ -54,6 +54,7 @@ There will be a demo
 
 # Architecture
 
+Our model is composed by a vision encoder and a large language model (LLM) connected by our30 proposed latent chain of thought (LatentCoT) projector which composes information from the vision encoder to form additional latent tokens. Given input image and text, our model first computes the image embedding using the vision encoder, then aligns the embedding with the LLM latent space using the projector, and finally concatenates the projected image latents with the tokenized input text34 for generating outputs using the LLM
 ![framework](archi.png)
 
 # Performance
