@@ -64,7 +64,7 @@ There will be performance
 <table>
     <tr>
         <td><img src="./sample1.png" width = "500" alt="sample1"></td>
-        <td><img src="./sample2.png" width = "500" alt="sample2"></td>
+        <td><img src="./sample2.png" width = "600" alt="sample2"></td>
     </tr>
 </table>
 
