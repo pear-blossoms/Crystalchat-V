@@ -16,12 +16,61 @@ There will be a demo
 
 # Data
 
-| Stage       | Dataset        | Number | Size   |
-|:-------------|:------------------|:------|:-----|
-|            | LAION_CC_SBU | 558,128  |   |
-|  | good and plenty   | nice  ||
-| 1          | good `oreos`      | hmm   ||
-|           | good `zoute` drop | yumm  ||
+<table>
+    <tr>
+        <td>Stage</td><td>Dataset</td><td>Number</td><td>Size</td>
+    </tr>
+    <tr>
+        <td rowspan="3">Stage11</td><td>LAION_CC_SBU</td><td>558,128</td><td>-</td>
+    </tr>
+    <tr>
+        <td>llavar_pretrain</td><td>1,017,690</td><td>-</td>
+    </tr>
+    <tr>
+        <td>lmeye</td><td>3,489,001</td><td>-</td>
+    </tr>
+    <tr>
+        <td rowspan="2"></td>
+        <td>PF-1M</td>
+        <td>975,782</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <td>ShareGPT4v_1.2M</td>
+        <td>1,246,901</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+</table>
 
 # Architecture
 
