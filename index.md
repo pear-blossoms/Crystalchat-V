@@ -20,7 +20,7 @@ There will be data
 
 # Architecture
 
-![archi](https://github.com/pear-blossoms/Crystalchat-V/blob/main/archi.png)
+![framework](https://github.com/pear-blossoms/Crystalchat-V/blob/main/framework.pdf)
 
 # Performance
 
