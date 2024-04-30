@@ -1,5 +1,3 @@
-crystal chat-V
-
 # DEMO
 
 There will be a demo
