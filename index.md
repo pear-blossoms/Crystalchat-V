@@ -58,7 +58,7 @@ Our model is composed by a vision encoder and a large language model (LLM) conne
 
 # Performance
 
-<table id='performance'>
+<table class='performance'>
   <tr>
     <th> 1 </th>
     <th> 2 </th>
