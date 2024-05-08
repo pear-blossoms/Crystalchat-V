@@ -32,22 +32,22 @@ There will be a demo
         <td rowspan="2">Stage2</td><td>PF-1M</td><td>975,782</td><td><a href="https://huggingface.co/datasets/chendelong/PF-1M/tree/main">PF-1M</a></td>
     </tr>
     <tr>
-        <td>ShareGPT4v_1.2M</td><td>1,246,901</td><td><a href="https://huggingface.co/datasets/Lin-Chen/ShareGPT4V>ShareGPT4V</a></td>
+        <td>ShareGPT4v_1.2M</td><td>1,246,901</td><td><a href="https://huggingface.co/datasets/Lin-Chen/ShareGPT4V">ShareGPT4V</a></td>
     </tr>
     <tr>
-        <td rowspan="5">Stage3</td><td>LVIS-Instruct</td><td>888,008</td><td>-</td><td>-</td>
+        <td rowspan="5">Stage3</td><td>LVIS-Instruct</td><td>888,008</td><td><a href="https://huggingface.co/datasets/X2FD/LVIS-Instruct4V">LVIS</a></td>
     </tr>
     <tr>
-        <td>M<SUP>3</SUP>IT</td><td>955,435</td><td>-</td><td>-</td>
+        <td>M<SUP>3</SUP>IT</td><td>955,435</td><td><a href="https://huggingface.co/datasets/MMInstruction/M3IT">M<SUP>3</SUP>IT</a></td>
     </tr>
     <tr>
-        <td>SVIT_core</td><td>108,077</td><td>-</td><td>-</td>
+        <td>SVIT_core</td><td>108,077</td><td><a href="https://huggingface.co/datasets/BAAI/SVIT">SVIT</a></td>
     </tr>
     <tr>
-        <td>LAMM</td><td>185,892</td><td>-</td><td>-</td>
+        <td>LAMM</td><td>185,892</td><td><a href="https://github.com/OpenGVLab/LAMM#lamm-dataset">LAMM</a></td>
     </tr>
     <tr>
-        <td>ComVint</td><td>31,889</td><td>-</td><td>-</td>
+        <td>ComVint</td><td>31,889</td><a href="https://github.com/RUCAIBox/ComVint#comvint-data">ComVint</a></td>
     </tr>
 </table>
 
