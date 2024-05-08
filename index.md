@@ -58,20 +58,40 @@ Our model is composed by a vision encoder and a large language model (LLM) conne
 
 # Performance
 
-\begin{array}
-{|c|l|l|}
-\hline
-	序号 & 人名 & 角色 \\
-\hline
-	1 & Alice	& 协议中的第一个参与者 \\
-\hline
-	2 & Bob		& 协议中的第二个参与者 \\
-\hline
-	3 & Trent	& 仲裁者 \\
-\hline
-	4 & Eve    	& 窃听者 \\
-\hline	
-\end{array}
+<table id='performance'>
+  <tr>
+    <th> 1 </th>
+    <th> 2 </th>
+    <th> 3 </th>
+    <th> 4 </th>
+    <th> 5 </th>
+    <th> 6 </th>
+  </tr>
+  <tr>
+    <td> a </td>
+    <td> b </td>
+    <td> c </td>
+    <td> d </td>
+    <td> e </td>
+    <td> f </td>
+  </tr>
+  <tr>
+    <td> A </td>
+    <td> A </td>
+    <td> A </td>
+    <td> A </td>
+    <td> A </td>
+    <td> A </td>
+  </tr>
+  <tr>
+    <td> A </td>
+    <td> A </td>
+    <td> A </td>
+    <td> A </td>
+    <td> A </td>
+    <td> A </td>
+  </tr>
+</table>
 
 # Examples
 <table>
