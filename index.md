@@ -47,7 +47,7 @@ There will be a demo
         <td>LAMM</td><td>185,892</td><td><a href="https://github.com/OpenGVLab/LAMM#lamm-dataset">LAMM</a></td>
     </tr>
     <tr>
-        <td>ComVint</td><td>31,889</td><a href="https://github.com/RUCAIBox/ComVint#comvint-data">ComVint</a></td>
+        <td>ComVint</td><td>31,889</td><td><a href="https://github.com/RUCAIBox/ComVint#comvint-data">ComVint</a></td>
     </tr>
 </table>
 
