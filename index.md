@@ -17,37 +17,37 @@ There will be a demo
 
 <table>
     <tr>
-        <th>Stage</th><th>Dataset</th><th>Number</th><th>Download</th>
+        <th>Stage</th> <th>Dataset</th> <th>Number</th> <th>Download</th>
     </tr>
     <tr>
-        <td rowspan="3">Stage1</td><td>LAION_CC_SBU</td><td>558,128</td><td><a href="https://huggingface.co/datasets/YunxinLi/Multimodal_Insturction_Data_V2">LAION_CC_SBU</a></td>
+        <td rowspan="3">Stage1</td> <td>LAION_CC_SBU</td> <td>558,128</td> <td><a href="https://huggingface.co/datasets/YunxinLi/Multimodal_Insturction_Data_V2">LAION_CC_SBU</a></td>
     </tr>
     <tr>
-        <td>LLaVAR_pretrain</td><td>1,017,690</td><td><a href="https://llavar.github.io/#data">LLaVAR</a></td>
+        <td>LLaVAR_pretrain</td> <td>1,017,690</td> <td><a href="https://llavar.github.io/#data">LLaVAR</a></td>
     </tr>
     <tr>
-        <td>LMEye</td><td>3,489,001</td><td><a href="https://huggingface.co/datasets/YunxinLi/Multimodal_Insturction_Data_V2">LMEye</a></td>
+        <td>LMEye</td> <td>3,489,001</td> <td><a href="https://huggingface.co/datasets/YunxinLi/Multimodal_Insturction_Data_V2">LMEye</a></td>
     </tr>
     <tr>
-        <td rowspan="2">Stage2</td><td>PF-1M</td><td>975,782</td><td><a href="https://huggingface.co/datasets/chendelong/PF-1M/tree/main">PF-1M</a></td>
+        <td rowspan="2">Stage2</td> <td>PF-1M</td> <td>975,782</td> <td><a href="https://huggingface.co/datasets/chendelong/PF-1M/tree/main">PF-1M</a></td>
     </tr>
     <tr>
-        <td>ShareGPT4v_1.2M</td><td>1,246,901</td><td><a href="https://huggingface.co/datasets/Lin-Chen/ShareGPT4V">ShareGPT4V</a></td>
+        <td>ShareGPT4v_1.2M</td> <td>1,246,901</td> <td><a href="https://huggingface.co/datasets/Lin-Chen/ShareGPT4V">ShareGPT4V</a></td>
     </tr>
     <tr>
-        <td rowspan="5">Stage3</td><td>LVIS-Instruct</td><td>888,008</td><td><a href="https://huggingface.co/datasets/X2FD/LVIS-Instruct4V">LVIS</a></td>
+        <td rowspan="5">Stage3</td> <td>LVIS-Instruct</td> <td>888,008</td> <td><a href="https://huggingface.co/datasets/X2FD/LVIS-Instruct4V">LVIS</a></td>
     </tr>
     <tr>
-        <td>M<SUP>3</SUP>IT</td><td>955,435</td><td><a href="https://huggingface.co/datasets/MMInstruction/M3IT">M<SUP>3</SUP>IT</a></td>
+        <td>M<SUP>3</SUP>IT</td> <td>955,435</td> <td><a href="https://huggingface.co/datasets/MMInstruction/M3IT">M<SUP>3</SUP>IT</a></td>
     </tr>
     <tr>
-        <td>SVIT_core</td><td>108,077</td><td><a href="https://huggingface.co/datasets/BAAI/SVIT">SVIT</a></td>
+        <td>SVIT_core</td> <td>108,077</td> <td><a href="https://huggingface.co/datasets/BAAI/SVIT">SVIT</a></td>
     </tr>
     <tr>
-        <td>LAMM</td><td>185,892</td><td><a href="https://github.com/OpenGVLab/LAMM#lamm-dataset">LAMM</a></td>
+        <td>LAMM</td> <td>185,892</td> <td><a href="https://github.com/OpenGVLab/LAMM#lamm-dataset">LAMM</a></td>
     </tr>
     <tr>
-        <td>ComVint</td><td>31,889</td><td><a href="https://github.com/RUCAIBox/ComVint#comvint-data">ComVint</a></td>
+        <td>ComVint</td> <td>31,889</td> <td><a href="https://github.com/RUCAIBox/ComVint#comvint-data">ComVint</a></td>
     </tr>
 </table>
 
@@ -59,38 +59,24 @@ Our model is composed by a vision encoder and a large language model (LLM) conne
 # Performance
 
 <table class='performance'>
-  <tr>
-    <th> 1 </th>
-    <th> 2 </th>
-    <th> 3 </th>
-    <th> 4 </th>
-    <th> 5 </th>
-    <th> 6 </th>
-  </tr>
-  <tr>
-    <td> a </td>
-    <td> b </td>
-    <td> c </td>
-    <td> d </td>
-    <td> e </td>
-    <td> f </td>
-  </tr>
-  <tr>
-    <td> A </td>
-    <td> A </td>
-    <td> A </td>
-    <td> A </td>
-    <td> A </td>
-    <td> A </td>
-  </tr>
-  <tr>
-    <td> A </td>
-    <td> A </td>
-    <td> A </td>
-    <td> A </td>
-    <td> A </td>
-    <td> A </td>
-  </tr>
+    <tr>
+        <th rowspan="2"> LLM Backbone </th>  <th colspan="4"> With Code </th> <th colspan="4"> Without Code </th>
+    </tr>
+    <tr>
+        <td>MME</td> <td>Pope</td> <td>SQA</td> <td>TextVQA</td> <td>MME</td> <td>Pope</td> <td>SQA</td> <td>TextVQA</td>
+    </tr>
+    <tr>
+        <td>CrystalChat</td> <td>1478.82 + 297.14</td> <td>86.14</td> <td>67.92</td> <td>57.41</td> <td>1438.51 + 292.14</td> <td>87.10</td> <td>68.27</td> <td>58.15</td>
+    </tr>
+    <tr>
+        <td>Vicuna</td> <td>1488.26 + 268.21</td> <td>87.05</td> <td>69.31</td> <td>56.40</td> <td>1436.25 + 261.42</td> <td>86.85</td> <td>68.32</td> <td>55.87</td>
+    </tr>
+    <tr>
+        <td>CrystalCoder</td> <td>1351.22 + 274.64</td> <td>86.05</td> <td>61.63</td> <td>50.11</td> <td>1341.61 + 240.00</td> <td>86.36</td> <td>63.21</td> <td>50.51</td>
+    </tr>
+    <tr>
+        <td>LLaMA-2</td> <td>1448.58 + 304.29</td> <td>86.87</td> <td>67.87</td> <td>55.62</td>
+    </tr>
 </table>
 
 # Examples
